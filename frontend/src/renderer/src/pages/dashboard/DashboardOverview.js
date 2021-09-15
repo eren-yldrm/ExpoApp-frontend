@@ -92,14 +92,6 @@ export default () => {
                     percentage={18.2}
                     data={totalOrders} />
                 </Col>
-
-                {/* <Col xs={12} className="px-0 mb-4">
-                  <RankingWidget />
-                </Col> */}
-
-                {/* <Col xs={12} className="px-0">
-                  <AcquisitionWidget />
-                </Col> */}
               </Row>
             </Col>
           </Row>
